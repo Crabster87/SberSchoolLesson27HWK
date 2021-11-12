@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task27AudioRecorder</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="recording">Recording...</string>
+    <string name="file_name_format">yyyy_MM_dd_HH_mm_ss</string>
+</resources>
